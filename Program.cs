@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HiloBasico
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
@@ -34,5 +34,6 @@ namespace HiloBasico
                 Thread.Sleep(500);
             }
         }
+
     }
 }
